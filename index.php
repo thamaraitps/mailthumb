@@ -29,7 +29,7 @@ $str = "testsol";
 $pos = findRepeatFirstN2($str); 
 
 if ($pos == -1) 
-	echo ("Not found"); 
+	echo ("Not found Letter"); 
 else
 	echo ($str[$pos]); 
 
